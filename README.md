@@ -1,6 +1,11 @@
-XtremeMP
+XtremeMP [Download](http://xtrememp.sourceforge.net/)
 ========
 [*The Xtreme Media Player*](http://xtrememp.sourceforge.net/)
+
+This repository exists only for study purposes of XtremeMp Code.
+
+![image](https://user-images.githubusercontent.com/20374208/64943954-c175b200-d875-11e9-8008-4cd0b7f4ab25.png)
+
 
 ### Where am I? ###
 
