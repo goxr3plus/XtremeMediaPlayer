@@ -1,0 +1,13 @@
+syntax: glob
+
+build/
+dist/
+out/
+
+nbproject/private
+.idea
+\.orig\..*$
+\.orig$
+\.chg\..*$
+\.rej$
+\.conflict\~$
