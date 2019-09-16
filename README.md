@@ -1,6 +1,6 @@
 XtremeMP
 ========
-*The Xtreme Media Player*
+[*The Xtreme Media Player*](http://xtrememp.sourceforge.net/)
 
 ### Where am I? ###
 
